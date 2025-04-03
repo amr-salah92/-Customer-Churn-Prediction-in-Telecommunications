@@ -69,6 +69,10 @@ The company has been operating for several years, and reducing churn is a top pr
 4. **Churn Status**:  
    - Target variable (`Churn: Yes/No`).  
 
+![Screenshot_3-4-2025_224935_dbdiagram io](https://github.com/user-attachments/assets/b3fafae2-e41b-41c3-9e1e-c74c21259346)
+
+
+
 #### Initial Data Quality Checks  :
 - No duplicates (`data.duplicated().sum() = 0`).
 - Null values : InternetService (2129) 
