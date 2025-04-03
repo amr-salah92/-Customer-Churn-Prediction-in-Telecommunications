@@ -105,7 +105,8 @@ The company has been operating for several years, and reducing churn is a top pr
 - **Marketing Team**: Target promotional offers for at-risk customers.  
 - **Customer Support**: Prioritize retention efforts for DSL users.  
 - **Product Team**: Improve service reliability to reduce outages.  
-[Visualization: Heatmap of feature correlations with churn]  
+
+![3759202e-7674-4481-9e54-b83305f51fb0](https://github.com/user-attachments/assets/fdd56dac-c23e-44a9-bd85-6d2cea7e3da8)
 
 ---
 
@@ -116,21 +117,22 @@ The company has been operating for several years, and reducing churn is a top pr
 - Age: >= 50 Years old churn more nearly 41 % of customers
 - Income: moderate-income (20k - 50k) customers churn more (~45% of chured customers).  
 [Visualization: Bar chart of churn by income bracket]  
+![c4d37a38-80a9-455f-bc32-e2398a950e95](https://github.com/user-attachments/assets/a296aeee-dd08-4091-bac8-540f9bae6e17)
 
 #### **Category 2: Tenure & Subscription Trends**  
 - New customers (<20 months) are more likely to churn than long-term customers.  
 - One-year contracts have the lowest churn (~3%).  
-[Visualization: Line graph of churn vs. tenure]  
+
 
 #### **Category 3: Internet Service Usage Patterns**  
 - Fiber optic users churn 7% more than DSL subscribers.  
 - High bandwidth users (5,000+ GB/year) are less likely to leave (there is strong correlation 0.99 between Tenure & Bandwidth_GB_Year) .
-[Visualization: Pie chart of churn by internet service type]  
+
 
 #### **Category 4: Financial Impact of Churn**  
 - Monthly charges >$200 correlate with 2x higher churn rate.  
 - Customers with frequent Emails (range between 10 - 15 Emails) associated with the 18% leaving percent.  
-[Visualization: Scatter plot of churn vs. monthly charges]  
+  
 
 ---
 
