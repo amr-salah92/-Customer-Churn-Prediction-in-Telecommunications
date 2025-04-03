@@ -188,8 +188,4 @@ Based on the analysis, the following strategies are recommended to reduce custom
 ### Conclusion  
 This analysis provides actionable strategies to reduce churn by 15-20% through targeted interventions. Further A/B testing on promotional offers is recommended.  
 
-#### **Next Steps:**  
-- Deploy the KNN model in production for real-time churn prediction.  
-- Conduct customer surveys to validate retention strategies.  
 
-**End of Report**  
